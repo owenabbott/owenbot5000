@@ -13,3 +13,5 @@ Answer: Jesus *christ,* dude.
 Questin the fourth: What are the three to five expectations that you have of senior leaders in an organization where you will work successfully?
 Answer: that they know what they are doing, that they allow junior devs room to be trained.
 
+question the fifth: How would your co-workers describe your work style and contributions in your former job?
+Answer: they'd say I was a good worker, or something, I don't know.
