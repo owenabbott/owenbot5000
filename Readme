@@ -1,0 +1,7 @@
+This will be a chatbot that allows prospective employers to see my answers to their common questions.
+
+There will be a text field that allows interviewers to ask questions, which will then be served up answers.
+
+Perhaps there will be a help command that allows interviewers to see which questions they can ask.
+
+NPX create react app will not work. Encounters error with Yarn. As I haven't updated anything, I've no idea why this is happening, but I need my five commits so I'm going through the motions without it.
