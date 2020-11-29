@@ -10,3 +10,6 @@ Answer: Well, I guess I have more experience with this one. Though, to be honest
 Question the third: Describe the ideal work environment or culture that would maximise your productivity and happiness.
 Answer: Jesus *christ,* dude.
 
+Questin the fourth: What are the three to five expectations that you have of senior leaders in an organization where you will work successfully?
+Answer: that they know what they are doing, that they allow junior devs room to be trained.
+
